@@ -8,3 +8,5 @@
   - Mocky.io
   - OkHttp profiler
   - Stetho
+  
+ TODO: Flipper
